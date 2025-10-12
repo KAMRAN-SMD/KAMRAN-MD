@@ -29,7 +29,7 @@ cmd({
             title = search.videos[0].title;
         }
 
-        await reply("⏳ Downloading video...");
+        await reply("⏳ FATIMA-MD Downloading video...");
 
         // Use API to get video
         const apiUrl = `https://apis.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(videoUrl)}`;
