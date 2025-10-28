@@ -25,7 +25,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   
 --- 
 
-<a href="https://files.catbox.moe/1yhu8r.jpg"><img src="https://files.catbox.moe/1yhu8r.jpg" alt="glow" border="0"></a>
+<a href="https://files.catbox.moe/yo8yiv.jpg"><img src="https://files.catbox.moe/yo8yiv.jpg" alt="glow" border="0"></a>
 ***
 
 
@@ -94,7 +94,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/policeduafatima/FATIMA-MD" target="_blank">
+      <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
@@ -129,7 +129,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 1. Go to hugginface.co/join and create an account and verify your email too.
 
 `Step 2`
-1. Go to https://huggingface.co/spaces/policeduafatima/FATIMA-MD
+1. Go to https://huggingface.co/spaces/KAMRAN-SMD/KAMRAN-MD
 
 2. Tap on *three dots* _(as shown in image)_
 
@@ -200,10 +200,10 @@ jobs:
 
 
 ## 👑 PROJECT OWNER 
-HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ༎꯭ࠫ𝐃꯭𝐮꯭፝֟𝐚𝆭-꯭𝆭𓆪𝐅꯭𝐚ͯ𝐭꯭𝝸፝֟𝐦꯭̈𝐚ͯ༎𝅥ٜٜٜٜࠫ𝆬ː͢  
+HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ᴋᴀᴍʀᴀɴ-ᴍᴅ 
 
 <p align="">
-<a href='https://wa.me/+923195068309?text=*HELLO+DR KAMRAN+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+FATIMA-MD+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/+923195068309?text=*HELLO+DR KAMRAN+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+KAMRAN-MD+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -235,5 +235,5 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 
 
 
-## ‎![KAMRAN-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=+DUA+FATIMA+OWNER+(+923155641171))
+## ‎![KAMRAN-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=+DR+KAMRAN+OWNER+(+923195068309))
 ```
