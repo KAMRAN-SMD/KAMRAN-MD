@@ -1,7 +1,7 @@
 {
   "name": "KAMRAN-MD",
   "description": "Javascript WhatsApp bot made by  KAMRAN-MD",
-  "logo": "https://files.catbox.moe/so68jp.jpg",
+  "logo": "https://files.catbox.moe/yo8yiv.jpg",
   "keywords": ["KAMRAN-MD"],
   "success_url": "/",
 
@@ -131,7 +131,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/so68jp.jpg"
+      "value": "https://files.catbox.moe/yo8yiv.jpg"
     },
     
      "DESCRIPTION": {
