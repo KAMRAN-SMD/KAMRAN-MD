@@ -47,7 +47,7 @@ OWNER_NAME: process.env.OWNER_NAME || "DR KAMRAN",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© CREATER KAMRAN-MD *",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/so68jp.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/yo8yiv.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> HEY IM ALIVE NOW  *KAMRAN-MD*⚡",
 // add alive msg here 
