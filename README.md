@@ -5,7 +5,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-> **CURRENT BOT VERSION ➜ `4.5.0 ⚡`**
+> **CURRENT BOT VERSION ➜ `10.9.4 ⚡`**
 ---
 
 
