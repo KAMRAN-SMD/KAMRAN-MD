@@ -1,7 +1,7 @@
 {
   "name": "KAMRAN-MD",
-  "description": "Javascript WhatsApp bot made by  KAMRAN-MD",
-  "logo": "https://files.catbox.moe/yo8yiv.jpg",
+  "description": "Javascript WhatsApp bot made by DR KAMRAN",
+  "logo": "https://files.catbox.moe/ly6553.jpg",
   "keywords": ["KAMRAN-MD"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "DRKAMRAN"
+      "value": "KAMRAN-MD"
     }, 
       
     "PREFIX": {
@@ -108,13 +108,6 @@
       "value": "true"
       
     },
-
-     "ANTI_LINK_KICK": {
-      "description": "Make it true if you want bot auto remove group link.",
-      "required": true,
-      "value": "false"
-      
-    },
     
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
@@ -131,13 +124,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/yo8yiv.jpg"
+      "value": "https://files.catbox.moe/ly6553.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CREATER KAMRAN-MD*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ DR KAMRAN*"
     },
 
       "DELETE_LINKS": {
@@ -183,14 +176,20 @@
       "value": "inbox"
     }, 
 
-    "ADMIN_EVENTS": {
+    "ADMIN_ACTION": {
       "description": "make it true if want know who promote or demote a member .",
       "required": false,
       "value": "false"
     },
 
     "WELCOME": {
-      "description": "make it true if want goodbye and welcome message in groups.",
+      "description": "make it true if want welcome message in groups.",
+      "required": false,
+      "value": "false"
+    },
+
+    "GOODBYE": {
+      "description": "make it true if want goodbye message in groups.",
       "required": false,
       "value": "false"
     },
