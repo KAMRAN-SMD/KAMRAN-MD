@@ -13,7 +13,7 @@
     "restart": "pm2 restart KAMRAN-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "atexovi-baileys",
+    "@whiskeysockets/baileys": "@neoxr/wb",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
@@ -42,7 +42,7 @@
     "path": "^0.12.7",
     "dotenv": "^16.0.0",
     "mongoose": "^8.0.0",
-    "jimp": "^0.16.1",
+    "jimp": "^1.6.0",
     "adm-zip": "^0.5.16",
     "cheerio": "^1.0.0-rc.12",
     "qrcode-terminal": "^0.12.0",
