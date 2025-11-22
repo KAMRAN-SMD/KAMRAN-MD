@@ -141,7 +141,7 @@ That's all bot connected
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
-<a href='https://www.mediafire.com/file/at7yp0spnfs5p35/KAMRAN-MD-main.kanran-smd/file' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-zip file-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='[https://www.mediafire.com/file/at7yp0spnfs5p35/KAMRAN-MD-main.kanran-smd/file](https://github.com/KAMRAN-SMD/KAMRAN-MD/archive/refs/heads/main.zip)' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-zip file-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
 
 <details>
   
