@@ -1,14 +1,14 @@
 {
   "name": "KAMRAN-MD",
-  "version": "5.0.0",
-  "description": "A WhatsApp Bot Created By DR KAMRAN",
+  "version": "4.5.0",
+  "description": "A WhatsApp Bot Created By DrKamraN",
   "main": "index.js",
   "engines": {
     "node": ">=20.x",
     "npm": ">=10.x"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "pm2 start index.js --deep-monitoring --attach --name KAMRAN-MD",
     "stop": "pm2 stop KAMRAN-MD",
     "restart": "pm2 restart KAMRAN-MD"
   },
@@ -51,3 +51,4 @@
     "sqlite3": "^5.1.7"
   }
 }
+
