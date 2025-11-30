@@ -8,7 +8,7 @@
     "npm": ">=10.x"
   },
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KAMRAN-MD",
+    "start": "node index.js",
     "stop": "pm2 stop KAMRAN-MD",
     "restart": "pm2 restart KAMRAN-MD"
   },
@@ -51,4 +51,3 @@
     "sqlite3": "^5.1.7"
   }
 }
-
