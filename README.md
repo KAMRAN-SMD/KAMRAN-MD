@@ -1,157 +1,123 @@
+![KAMRAN-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+ASSALAMUALAIKUM!+WELCOME+TO+KAMRAN-MD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+MANY%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY&color=FF69B4&color=4285F4&color=00C853&color=9C27B0&color=FF5722)
+```
+DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
+```
+
+---
+
+> **CURRENT BOT VERSION ➜ `10.9.4 ⚡`**
+---
 
 
 
-<p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">KAMRAN-𝐌𝐃</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=KAMRAN-MD-5.0" alt="Typing SVG" /></a>
-  </p>
+
+
+  <p align="center">
+<a href="https://github.com/policeduafatima-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/KAMRAN-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/policeduafatima/KAMRAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KAMRAN-SMD/KAMRAN-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KAMRAN-SMD/KAMRAN-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/KAMRAN-SMD/KAMRAN-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+</p>
+
   
----
-  </p>
+--- 
 
-```
-Dont forget to fork & star repo
-```
+<a href="https://files.catbox.moe/yo8yiv.jpg"><img src="https://files.catbox.moe/yo8yiv.jpg" alt="glow" border="0"></a>
+***
+
+
+
+
+### 1. 𐃁FORK THIS REPOSITORY𐃁
+
+`FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
+
+  <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/fork"><img title="KAMRAN-MD" src="https://img.shields.io/badge/FORK-KAMRAN%20MD-MDh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  
+### 2. 𐃁GET SESSION ID𐃁 
+
+`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92315xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
+
+
+### <h4 align="">3. Render</h1>
+<p style="text-align: center; font-size: 1.2em;">
+
+-------------
+  
+<a href='https://kamran-md.onrender.com/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
+
+
+-------------
+
+<a href='https://kamran-md.onrender.com/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
+
+-------------
+
+<a href='https://kamran-md.onrender.com/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE-FFFB?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
+  
+
+### <h2 align="">KAMRAN-MD DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
+
+<p align="center">Deploy your <strong>KAMRAN-MD Bot</strong> with one click on your favorite hosting platforms.</p>
 
 <div align="center">
-  <img src="https://files.catbox.moe/7dm3u4.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <table>
+    <tr>
+      <td><a href="https://dua-vps.onrender.com" target="_blank"><img src="https://img.shields.io/badge/FREE-VPS-FFA500?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/KAMRAN-SMD/KAMRAN-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=policeduafatima/FATIMA-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+  </table>
 </div>
 
-            `DEPLOMENT STEPS`
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD" target="_blank">
+        <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>  
 
-<div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
-  
-<div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
-  <a href='https://github.com/KAMRAN-SMD/KAMRAN-MD/fork' target="_blank">
-    <img src='https://img.shields.io/badge/FORK_REPO-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD" target="_blank">
+        <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>  
 
-</div>
-
-<div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
-
-  > **∞ KAMRAN ACCOUNT**
-  <a href='https://github.com/KAMRAN-SMD' target="_blank">
-    <img src='https://img.shields.io/badge/FOLLOW ACCOUNT-800080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
-  
-  > **⚠️ OPTION ONE**
-  <a href='https://kamran-md.onrender.com/pair' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
-  
-  <div style="height: 10px;"></div>
-  
-  > **⚠️ OPTION TWO**
-  <a href='https://kamran-md.onrender.com/pair' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a>
-
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=DEPLOYMENT.OPTION" alt="Typing SVG" /></a>
-  </p>
+<hr>
+<p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
 ---
-<h4 align="center">2. heroku</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/KAMRAN-SMD/KAMRAN-MD/tree/main'' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎Deploy-FF00AA?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
 
-----------
-
-<h4 align="center">1. TalkDrove Free</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-
-<p align="center">
-<a href='https://talkdrove.com/share-bot/11' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
-  
-<details>
-  
-<b><strong><summary align="center" style="color: Yello;">EASIEST METHOD</summary></strong></b>
-<p style="text-align: center; font-size: 1.2em;">
- 
-
-<h3 align="center"> HOW TO DEPLOY ON TALKDROVE</h3>
+## <h3 align=""> HOW TO DEPLOY ON HUGGING FACE</h3>
 <h6 align-"center">
-Create Account Here:
-
-https://host.talkdrove.com/auth/signup?ref=9535F15A
-
-Then Login
-Claim 10 coins in wallet section
-Locate where to deploy your bot
-You will see a dashboard of bots listed 
-
-
-Click next , next
-Until you see KAMRAN MD
-Then click on it
-
-You will be asked to fill in some stuffs like your session Id , and other stuffs on how you want your bot to be ( bot settings ) , it's not hard I added examples
-
-
-Get session I'd here:
-
-https://kamran-md.onrender.com/pair
-
-After you're done filling it
-Click deploy button 
-
-If you can't see any deploy button , switch the website to dark mode 
-
-It will show
-
-That's all bot connected
-
-`DR KAMRAN OFC`</h6>
-</details>
-
---------------
-
-
-<h4 align="center">3. Koyeb</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-
-<p align="center">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=KAMRAN-SMD/KAMRAN-MD[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20KAMRAN-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
-
------
-<h4 align="center">4. Railway</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-<p align="center">
-<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
-
------
-
-<h4 align="center">5. Render</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="center">
-<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
---------
-
-<h4 align="center">6. ZIP FILE</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="center">
-<a href='[https://www.mediafire.com/file/at7yp0spnfs5p35/KAMRAN-MD-main.kanran-smd/file](https://github.com/KAMRAN-SMD/KAMRAN-MD/archive/refs/heads/main.zip)' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-zip file-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
-
-<details>
-  
-<b><strong><summary align="center" style="color: Yello;">EASIEST METHOD 2</summary></strong></b>
-<p style="text-align: center; font-size: 1.2em;">
- 
-
-<h3 align="center">DOWNLOAD ZIP FILE </h3>
-<h6 align-"center">
-*❄️ Deploy kamran xmd On bot-hosting For Free !*
+*❄️ Deploy ali-md On Hugging Face For Free !*
 
 `Specs :`
 - v2 CPU
@@ -160,10 +126,10 @@ That's all bot connected
 > `Steps to deploy`
 
 `Step 1`
-1. Go to bot-hosting.co/join and create an account and verify your email too.
+1. Go to hugginface.co/join and create an account and verify your email too.
 
 `Step 2`
-1. Go to the https://bot-hosting.net/?aff=1338673948329508876
+1. Go to https://huggingface.co/spaces/KAMRAN-SMD/KAMRAN-MD
 
 2. Tap on *three dots* _(as shown in image)_
 
@@ -176,34 +142,8 @@ That's all bot connected
 
 ```After that wait 10 seconds & your have deployed it successfuly  for free 24/7```
 
-> CREDITS KAMRAN-MD🎐
-
-*by DR KAMRAN*</h6>
-
-</details>
-
---------------
-
-
-<h4 align="center">7. Replit</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-<p align="center">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
-
- --------
- <h4 align="center">8. Workflow</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-
-<details>
-
-<b><strong><summary align="center" style="color: Yello;">Deploy On Workflow</summary></strong></b>
-<p style="text-align: center; font-size: 1.2em;">
- 
-<h8>Copy the workflow codes and then frok the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes name them deploy and save the file</h8>
-<h3 align-"center"> Important</h3>
-<h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
+> CREDITS PIKABOTZ🎐
+> **_✠ FREE DEPLOYMENT OF FATIMA MD GITHUB WORKFLOW CODE ✠_**
 
 ```
 name: Node.js CI
@@ -240,6 +180,60 @@ jobs:
     - name: Start application
       run: npm start
 ```
-</details> 
+
+-------
+
+
+*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ*</h6>
+
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+### <h4 align="">7. REPLIT</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+<p align="">
+<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+## 👑 PROJECT OWNER 
+HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ᴋᴀᴍʀᴀɴ-ᴍᴅ 
+
+<p align="">
+<a href='https://wa.me/+923195068309?text=*HELLO+DR KAMRAN+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+KAMRAN-MD+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+## 🪀 WHATSAPP CHANNEL 
+STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
+
+[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O)
+
+## 🪀 WHATSAPP GROUP
+JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
+
+[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O)
+
+ 
+
 
 ***
+
+## <h2 align="left">⚠️ REMINDER </h2>
+<p style="text-align: center; font-size: 1.2em;">
+
+- **DISCLAIMER:**- REMEMBER IT If WhatsApp gets banned, I, Owner Erfan, will not be responsible for it.THIS BOT IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
+- MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED. NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.
+- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING.
+
+---
+
+## ‎![KAMRAN-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+NOTICE!+NOT+FOR+SELL;🔥+ANYONE+COPY+BOT+FILE+SO+FORCE+MANY%2B+PROBLEM;⚡+DON'T+•+TRY+THIS+•+BOT+FILE)
+
+
+
+## ‎![KAMRAN-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=+DR+KAMRAN+OWNER+(+923195068309))
+```
