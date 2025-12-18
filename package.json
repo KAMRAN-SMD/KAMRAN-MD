@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By DR KAMRAN",
   "main": "index.js",
   "engines": {
-    "node": ">=20.x",
+    "node": "20.x",
     "npm": ">=10.x"
   },
   "scripts": {
@@ -15,7 +15,7 @@
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.9",
     "@adiwajshing/keyed-db": "^0.2.4",
-    "@dark-yasiya/yt-dl.js": "^1.0.6",
+    "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@vitalets/google-translate-api": "^9.2.1",    
     "pino": "^9.7.0",
