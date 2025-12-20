@@ -50,7 +50,7 @@ async (conn, mek, m, { from, reply, isCreator }) => {
 
         // Final message before restart
         await conn.sendMessage(from, {
-            text: '- *✅ KAMRAN MD Update Completed Restarting*'
+            text: '- *✅ Update Completed Restarting*'
         }, { quoted: mek });
 
         // Execute restart after a short delay
