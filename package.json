@@ -1,7 +1,7 @@
 {
   "name": "KAMRAN-MD",
-  "version": "5.0.0",
-  "description": "A WhatsApp Bot Created By DR KAMRAN",
+  "version": "5.5.0",
+  "description": "Advanced WhatsApp Bot Created By DR KAMRAN",
   "main": "index.js",
   "engines": {
     "node": ">=20.x",
@@ -13,11 +13,15 @@
     "restart": "pm2 restart KAMRAN-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:whaileys",
+    "@whiskeysockets/baileys": "7.0.0-rc.9",
+    "@zanixongroup/uploader": "^1.0.1",
+    "@google/generative-ai": "^0.24.0",
+    "@supabase/supabase-js": "^2.55.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
-    "@vitalets/google-translate-api": "^9.2.1",    
+    "@vitalets/google-translate-api": "^9.2.1",
+    "@bochilteam/scraper": "4.0.22-alpha.0",
     "pino": "^9.7.0",
     "pm2": "^6.0.8",
     "util": "^0.12.5",
@@ -27,7 +31,6 @@
     "axios": "^1.7.9",
     "file_size_url": "1.0.6",
     "fs-extra": "^11.1.0",
-    "fs": "^0.0.1-security",
     "ffmpeg": "^0.0.4",
     "file-type": "^21.0.0",
     "better-sqlite3": "npm:libsql@0.5.12",
@@ -42,13 +45,21 @@
     "path": "^0.12.7",
     "dotenv": "^16.0.0",
     "mongoose": "^8.0.0",
-    "jimp": "^0.16.1",
+    "jimp": "^1.6.0",
+    "sharp": "^0.34.1",
+    "canvafy": "^7.1.0",
+    "canvas": "^3.1.2",
     "adm-zip": "^0.5.16",
     "cheerio": "^1.0.0-rc.12",
     "qrcode-terminal": "^0.12.0",
-    "yt-search":"2.13.1",
+    "yt-search": "2.13.1",
+    "youtube-yts": "^2.0.0",
+    "node-youtube-music": "^0.8.3",
     "sequelize": "^6.37.7",
-    "sqlite3": "^5.1.7"
+    "sqlite3": "^5.1.7",
+    "node-cron": "^3.0.0",
+    "lowdb": "^2.1.0",
+    "spinnies": "^0.5.1",
+    "chalk": "^4.1.2"
   }
 }
-
