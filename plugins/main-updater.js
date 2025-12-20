@@ -1,89 +1,68 @@
 const { cmd } = require("../command");
-const axios = require('axios');
-const fs = require('fs');
-const path = require("path");
-const AdmZip = require("adm-zip");
-const { setCommitHash, getCommitHash } = require('../data/updateDB');
+const { sleep } = require("../lib/functions");
 
 cmd({
     pattern: "update",
     alias: ["upgrade", "sync"],
-    react: '🆕',
-    desc: "Update the bot to the latest version.",
-    category: "misc",
+    desc: "Update and restart the bot system",
+    category: "owner",
+    react: "🚀",
     filename: __filename
-}, async (client, message, args, { reply, isOwner }) => {
-    if (!isOwner) return reply("This command is only for the bot owner.");
-
+},
+async (conn, mek, m, { from, reply, isCreator }) => {
     try {
-        await reply("🔍 Checking for FATIMA-MD updates...");
-
-        // Fetch the latest commit hash from GitHub
-        const { data: commitData } = await axios.get("https://api.github.com/repos/policeduafatima/FATIMA-MD/commits/main");
-        const latestCommitHash = commitData.sha;
-
-        // Get the stored commit hash from the database
-        const currentHash = await getCommitHash();
-
-        if (latestCommitHash === currentHash) {
-            return reply("✅ Your FATIMA-MD bot is already up-to-date!");
+        if (!isCreator) {
+            return reply("*📛 This is an owner-only command!*");
         }
 
-        await reply("🚀 Updating FATIMA-MD Bot...");
+        // Initial message
+        const updateMsg = await conn.sendMessage(from, {
+            text: '*🚀 Initiating System Update...*'
+        }, { quoted: mek });
 
-        // Download the latest code
-        const zipPath = path.join(__dirname, "latest.zip");
-        const { data: zipData } = await axios.get("https://github.com/policeduafatima/FATIMA-MD/archive/main.zip", { responseType: "arraybuffer" });
-        fs.writeFileSync(zipPath, zipData);
+        // Update steps with emojis
+        const updateSteps = [
+            "*🔍 Checking System Status...*",
+            "*🛠️ Preparing Update Components...*",
+            "*📦 Finalizing Packages...*",
+            "*⚡ Optimizing Performance...*",
+            "*🔃 Ready for Restart...*",
+            "*♻️ Restarting Services...*"
+        ];
 
-        // Extract ZIP file
-        await reply("📦 Extracting the latest code...");
-        const extractPath = path.join(__dirname, 'latest');
-        const zip = new AdmZip(zipPath);
-        zip.extractAllTo(extractPath, true);
+        // Show each step with delay
+        for (const step of updateSteps) {
+            await sleep(1500);
+            await conn.relayMessage(
+                from,
+                {
+                    protocolMessage: {
+                        key: updateMsg.key,
+                        type: 14,
+                        editedMessage: {
+                            conversation: step,
+                        },
+                    },
+                },
+                {}
+            );
+        }
 
-        // Copy updated files, preserving config.js and app.json
-        await reply("🔄 Replacing files...");
-        const sourcePath = path.join(extractPath, "FATIMA-MD-main");
-        const destinationPath = path.join(__dirname, '..');
-        copyFolderSync(sourcePath, destinationPath);
+        // Final message before restart
+        await conn.sendMessage(from, {
+            text: '- *✅ KAMRAN MD Update Completed Restarting*'
+        }, { quoted: mek });
 
-        // Save the latest commit hash to the database
-        await setCommitHash(latestCommitHash);
+        // Execute restart after a short delay
+        await sleep(1000);
+        require('child_process').exec("pm2 restart all");
 
-        // Cleanup
-        fs.unlinkSync(zipPath);
-        fs.rmSync(extractPath, { recursive: true, force: true });
-
-        await reply("✅ Update complete! Restarting the bot...");
-        process.exit(0);
-    } catch (error) {
-        console.error("Update error:", error);
-        return reply("❌ Update failed. Please try manually.");
+    } catch (e) {
+        console.error(e);
+        await conn.sendMessage(from, {
+            text: `*❌ Update Failed!*\n_Error:_ ${e.message}\n\n*Try manually:*\n\`\`\`pm2 restart all\`\`\``
+        }, { quoted: mek });
     }
 });
 
-// Helper function to copy directories while preserving config.js and app.json
-function copyFolderSync(source, target) {
-    if (!fs.existsSync(target)) {
-        fs.mkdirSync(target, { recursive: true });
-    }
-
-    const items = fs.readdirSync(source);
-    for (const item of items) {
-        const srcPath = path.join(source, item);
-        const destPath = path.join(target, item);
-
-        // Skip config.js and app.json
-        if (item === "config.js" || item === "app.json") {
-            console.log(`Skipping ${item} to preserve custom settings.`);
-            continue;
-        }
-
-        if (fs.lstatSync(srcPath).isDirectory()) {
-            copyFolderSync(srcPath, destPath);
-        } else {
-            fs.copyFileSync(srcPath, destPath);
-        }
-    }
-}
+            
