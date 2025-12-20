@@ -13,7 +13,7 @@
     "restart": "pm2 restart KAMRAN-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "7.0.0-rc.9",
+    "@whiskeysockets/baileys": "npm:wileys",
     "@zanixongroup/uploader": "^1.0.1",
     "@google/generative-ai": "^0.24.0",
     "@supabase/supabase-js": "^2.55.0",
@@ -45,7 +45,7 @@
     "path": "^0.12.7",
     "dotenv": "^16.0.0",
     "mongoose": "^8.0.0",
-    "jimp": "^1.6.0",
+    "jimp": "^0.16.1",
     "sharp": "^0.34.1",
     "canvafy": "^7.1.0",
     "canvas": "^3.1.2",
