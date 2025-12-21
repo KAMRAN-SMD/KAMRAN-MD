@@ -1,101 +1,86 @@
-const config = require('../config');
-const { cmd } = require('../command');
-const { ytsearch } = require('@dark-yasiya/yt-dl.js');
+const axios = require("axios");
+const yts = require("yt-search");
+const config = require("../config"); 
+const { cmd } = require("../command");
 
-// MP4 video download
-
-cmd({ 
-    pattern: "mp4", 
-    alias: ["video"], 
-    react: "🔍", 
-    desc: "Download YouTube video", 
-    category: "main", 
-    use: '.mp4 < Yt url or Name >', 
-    filename: __filename 
-}, async (conn, mek, m, { from, prefix, quoted, q, reply }) => { 
-    try { 
-        if (!q) return await reply("Please provide a YouTube URL or video name.");
-        
-        const yt = await ytsearch(q);
-        if (yt.results.length < 1) return reply("No results found!");
-        
-        let yts = yt.results[0];  
-        let apiUrl = `https://apis.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(yts.url)}`;
-        
-        let response = await fetch(apiUrl);
-        let data = await response.json();
-        
-        if (data.status !== 200 || !data.success || !data.result.download_url) {
-            return reply("Failed to fetch the video. Please try again later.");
-        }
-
-        let ytmsg = `ðŸ“¹ *Video Downloader*
-ðŸŽ¬ *Title:* ${yts.title}
-â³ *Duration:* ${yts.timestamp}
-ðŸ‘€ *Views:* ${yts.views}
-ðŸ‘¤ *Author:* ${yts.author.name}
-ðŸ”— *Link:* ${yts.url}
-> ð¸ð‘…ð¹ð’œð’© ð’œð»ð‘€ð’œð’Ÿ â¤ï¸`;
-
-        // Send video directly with caption
-        await conn.sendMessage(
-            from, 
-            { 
-                video: { url: data.result.download_url }, 
-                caption: ytmsg,
-                mimetype: "video/mp4"
-            }, 
-            { quoted: mek }
-        );
-
-    } catch (e) {
-        console.log(e);
-        reply("An error occurred. Please try again later.");
-    }
-});
-
-// MP3 song download 
-
-cmd({ 
-  pattern: "play7",
-  alias: ["play3", "play4", "sania"],   
-  desc: "Download YouTube audio by title",
+cmd({
+  pattern: "video",
+  alias: ["ytmp4", "ytv"],
+  desc: "Downloads YouTube video by title (sends thumbnail first).",
   category: "download",
-  react: "🎵",
-  filename: __filename
+  react: "🎬",
+  filename: __filename 
 }, async (conn, mek, m, { from, args, q, reply }) => {
   try {
-    if (!q) return reply("❌ Please give me a song name.");
-
-    // 1. Search video on YouTube
-    let search = await yts(q);
-    let video = search.videos[0];
-    if (!video) return reply("❌ No results found.");
-
-    // 2. Call your API with video URL
-    let apiUrl = `https://jawad-tech.vercel.app/download/audio?url=${encodeURIComponent(video.url)}`;
-    let res = await axios.get(apiUrl);
-
-    if (!res.data.status) {
-      return reply("❌ Failed to fetch audio. Try again later.");
+    if (!q) {
+      return reply("❌ Please provide a video title or name to search.");
     }
 
-    // 3. Send audio file first
-    await conn.sendMessage(from, {
-      audio: { url: res.data.result },
-      mimetype: "audio/mpeg",
-      ptt: false,
-      contextInfo: { forwardingScore: 999, isForwarded: true }
-    }, { quoted: mek });
+    // 1. Search video on YouTube
+    const search = await yts(q);
+    const video = search?.videos?.[0];
 
-    // 4. Then reply with success message
-    await reply(`✅ *${video.title}* Downloaded Successfully FATIMA-MD!`);
+    if (!video) {
+      return reply("❌ No video results found for that query.");
+    }
+
+    const { url, title, image } = video;
+
+    // 2. --- Send the YouTube Thumbnail Image first ---
+    if (image) {
+        await conn.sendMessage(from, {
+            image: { url: image },
+            caption: `🔍 *Title:* ${title}\n🌐 *Source:* YouTube\n\n_Fetching video file, please wait..._`,
+            contextInfo: { forwardingScore: 999, isForwarded: true }
+        }, { quoted: mek });
+    } else {
+        await reply(`⏳ Found video: *${title}*. Fetching download link...`);
+    }
+
+    let res;
+    let downloadData;
+    let videoUrl;
+    
+    // 3. Call the external 'ytdl' API for video download link
+    try {
+        const apiUrl = `https://jawad-tech.vercel.app/download/ytdl?url=${encodeURIComponent(url)}`;
+        res = await axios.get(apiUrl);
+        
+        // --- FIX APPLIED HERE: Extracting the nested result object ---
+        downloadData = res.data.result;
+        videoUrl = downloadData?.mp4; // We need the specific 'mp4' field
+        
+    } catch (apiError) {
+        console.error("Axios API Call Failed:", apiError.message);
+        return reply(`❌ The external download service failed to connect. Status: ${apiError.response?.status || 'Connection Error'}. Please try again later.`);
+    }
+
+    // 4. Check API response structure and validity of URL
+    if (!res.data.status || !videoUrl || typeof videoUrl !== 'string' || videoUrl.length < 10) {
+      console.error("Video API response structure error:", res.data);
+      // The API gave a response, but the 'mp4' link was missing or invalid.
+      return reply("❌ The download service failed to generate a valid video link for this video.");
+    }
+
+    // 5. --- Attempt to Send the Video file ---
+    try {
+        await conn.sendMessage(from, {
+          video: { url: videoUrl }, // Send the video file
+          mimetype: "video/mp4", 
+          caption: `✅ *${downloadData.title || title}* Downloaded Successfully!\n\n_Powered by KAMRAN-MD._`,
+          contextInfo: { forwardingScore: 999, isForwarded: true }
+        }, { quoted: mek });
+
+        // The extra success reply line has been removed to prevent duplicate messages.
+        
+    } catch (mediaError) {
+        console.error("Video Send Failed:", mediaError.message);
+        return reply("⚠️ Video link found, but failed to send the video. The file might be too large or the link may have expired.");
+    }
 
   } catch (e) {
-    console.error("play2 error:", e);
-    reply("❌ Error while downloading audio.");
+    console.error("video3 General command error:", e.name, e.message);
+    reply("❌ A command processing error occurred during search or setup. Try a different query.");
   }
 });
-
-        
-
+            
