@@ -89,7 +89,7 @@ cmd({
     }, { quoted: mek });
 
     // 4. Then reply with success message
-    await reply(`✅ *${video.title}* Downloaded Successfully KAMRAN-MD!`);
+    await reply(`✅ *${video.title}* Downloaded Successfully FATIMA-MD!`);
 
   } catch (e) {
     console.error("play2 error:", e);
