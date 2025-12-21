@@ -109,7 +109,7 @@ cmd(
 
       // Format the descriptive text for the simplified menu
       let desc = `
- 🎬 KAMRAN MD DOWNLOADER 🎬
+ 🎬 FATIMA MD DOWNLOADER 🎬
 
 📌 *Title:* ${ytdata.title}
 🎬 *Channel:* ${ytdata.author.name}
@@ -227,4 +227,4 @@ cmd(
     }
   }
 );
-    
+        
