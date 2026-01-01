@@ -5,9 +5,9 @@ cmd({
     pattern: "pair",
     alias: ["getpair", "clonebot"],
     react: "✅",
-    desc: "Get pairing code for FATIMA-MD bot",
+    desc: "Get pairing code for NAWAZ-MD bot",
     category: "download",
-    use: ".pair 923155641XXX",
+    use: ".pair 923xxxxxx",
     filename: __filename
 }, async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, senderNumber, reply }) => {
     try {
@@ -16,7 +16,7 @@ cmd({
 
         // Validate phone number format
         if (!phoneNumber || phoneNumber.length < 10 || phoneNumber.length > 15) {
-            return await reply("❌ Please provide a valid phone number without `+`\nExample: `.pair 923155641XXX`");
+            return await reply("❌ Please provide a valid phone number without `+`\nExample: `.pair 923xxxxxx`");
         }
 
         // Make API request to get pairing code
@@ -27,7 +27,7 @@ cmd({
         }
 
         const pairingCode = response.data.code;
-        const doneMessage = "> *FATIMA-MD PAIRING COMPLETED*";
+        const doneMessage = "> *NAWAZ-MD PAIRING COMPLETED*";
 
         // Send initial message with formatting
         await reply(`${doneMessage}\n\n*Your pairing code is:* ${pairingCode}`);
@@ -43,3 +43,4 @@ cmd({
         await reply("❌ An error occurred while getting pairing code. Please try again later.");
     }
 });
+
