@@ -1,8 +1,8 @@
 {
-  "name": "FATIMA-MD",
-  "description": "Javascript WhatsApp bot made by  FATIMA-MD",
-  "logo": "https://i.ibb.co/JwYZ5hWq/IMG-20250813-WA0305.jpg",
-  "keywords": ["FATIMA-MD"],
+  "name": "NAWAZ-MD",
+  "description": "Javascript WhatsApp bot made by  NAWAZ-MD",
+  "logo": "https://files.catbox.moe/l0znn1.jpg",
+  "keywords": ["NAWAZ-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "DUA"
+      "value": "NAWAZ"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY FATIMA-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY NAWAZ-MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "DUA"
+      "value": "NWAZ"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923155641171"
+      "value": "923087069523"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "FATIMA-MD"
+      "value": "NAWAZ-MD"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://i.ibb.co/JwYZ5hWq/IMG-20250813-WA0305.jpg"
+      "value": "https://files.catbox.moe/l0znn1.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CREATER FATIMA-MD*"
+      "value": "*CREATER NAWAZ-MD*"
     },
 
       "DELETE_LINKS": {
