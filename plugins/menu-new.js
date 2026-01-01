@@ -5,7 +5,7 @@ const { runtime } = require('../lib/functions');
 const axios = require('axios');
 
 cmd({
-    pattern: "fatima",
+    pattern: "menu",
     desc: "Show interactive menu system",
     category: "fatima",
     react: "🧾",
@@ -48,7 +48,7 @@ cmd({
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363418144382782@newsletter',
+                newsletterJid: '120363402493709861@newsletter',
                 newsletterName: config.OWNER_NAME,
                 serverMessageId: 143
             }

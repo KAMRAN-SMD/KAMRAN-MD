@@ -40,7 +40,7 @@ cmd({
           forwardingScore: 999,
           isForwarded: true,
           externalAdReply: {
-            title: config.BOT_NAME || "FATIMA-MD 🥀",
+            title: config.BOT_NAME || "𝗡𝗔𝗪𝗔𝗭-𝗧𝗔𝗖𝗛𝗡𝗜𝗖𝗔𝗟-𝗠𝗗 🥀",
             body: config.DESCRIPTION || "Dua Fatima 🤌💗",
             mediaType: 1,
             renderLargerThumbnail: true,

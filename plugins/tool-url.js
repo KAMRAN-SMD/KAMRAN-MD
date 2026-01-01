@@ -65,7 +65,7 @@ cmd({
       `*${mediaType} Uploaded Successfully*\n\n` +
       `*Size:* ${formatBytes(mediaBuffer.length)}\n` +
       `*URL:* ${mediaUrl}\n\n` +
-      `>  Dua Fatima 💜`
+      `>  𝗡𝗔𝗪𝗔𝗭-𝗧𝗔𝗖𝗛𝗡𝗜𝗖𝗔𝗟-𝗠𝗗 💜`
     );
 
   } catch (error) {

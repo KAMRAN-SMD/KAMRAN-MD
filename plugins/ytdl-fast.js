@@ -67,7 +67,7 @@ cmd({
         await conn.sendMessage(from, {
           video: { url: videoUrl }, // Send the video file
           mimetype: "video/mp4", 
-          caption: `✅ *${downloadData.title || title}* Downloaded Successfully!\n\n_Powered by FATIMA-MD._`,
+          caption: `✅ *${downloadData.title || title}* Downloaded Successfully!\n\n_Powered by 𝗡𝗔𝗪𝗔𝗭-𝗧𝗔𝗖𝗛𝗡𝗜𝗖𝗔𝗟-𝗠𝗗._`,
           contextInfo: { forwardingScore: 999, isForwarded: true }
         }, { quoted: mek });
 

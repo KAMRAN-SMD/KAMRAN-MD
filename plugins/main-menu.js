@@ -7,7 +7,7 @@ const {runtime} = require('../lib/functions')
 const axios = require('axios')
 
 cmd({
-    pattern: "dua",
+    pattern: "menu3",
     alias: ["allmenu","fullmenu"],
     use: '.dua',
     desc: "Show all bot commands",
@@ -346,14 +346,14 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/27sdkb.jpg' },
+                image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/l0znn1.jpg' },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363418144382782@newsletter',
+                        newsletterJid: '120363402493709861@newsletter',
                         newsletterName: config.BOT_NAME,
                         serverMessageId: 143
                     }
