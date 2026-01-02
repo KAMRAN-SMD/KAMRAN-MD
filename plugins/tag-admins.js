@@ -5,7 +5,7 @@ const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, 
 cmd({
     pattern: "tagadmins",
     react: "👑",
-    alias: ["gc_tagadmins"],
+    alias: ["tagadmin"],
     desc: "To Tag all Admins of the Group",
     category: "group",
     use: '.tagadmins [message]',
@@ -41,7 +41,7 @@ async (conn, mek, m, { from, participants, reply, isGroup, senderNumber, groupAd
             teks += `${randomEmoji} @${admin.split('@')[0]}\n`;
         }
 
-        teks += "└──✪ DARKZONE┃ MD ✪──";
+        teks += "└──✪ NAWAZ ┃ MD ✪──";
 
         conn.sendMessage(from, { text: teks, mentions: admins }, { quoted: mek });
 
