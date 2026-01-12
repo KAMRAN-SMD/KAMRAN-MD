@@ -11,7 +11,7 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{KAMRAN-MD}/count.svg" alt="DRKAMRAN :: Visitor's Count" old_src="https://profile-counter.glitch.me/{KAMRAN-SMD}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{KAMRAN-MD}/count.svg" alt="DR KAMRAN :: Visitor's Count" old_src="https://profile-counter.glitch.me/{KAMRAN-SMD}/count.svg" /></p>
 
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p> 
 
 <p align="center">
-  <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0.0-cyan.svg?style=for-the-badge&logo=aqua" /></a>
+  <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v8.0.0-cyan.svg?style=for-the-badge&logo=aqua" /></a>
 </p>
 
 
