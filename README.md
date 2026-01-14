@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=KAMRAN-MD-V8" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://files.catbox.moe/ljah2h.jpg'/></a>
+<a><img src='https://upld.zone.id/uploads/d4ina6iq/img-20260114-wa0013-1.webp'/></a>
 
 <p align="center">
   <a href="https://github.com/KAMRAN-SMD"><img title="Developer" src="https://img.shields.io/badge/Author-KAMRAN%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
