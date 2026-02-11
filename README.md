@@ -3,90 +3,118 @@
 <a><img src='https://upld.zone.id/uploads/d4ina6iq/img-20260114-wa0013-1.webp'/></a>
 
 <p align="center">
-  <a href="https://github.com/KAMRAN-SMD"><img title="Developer" src="https://img.shields.io/badge/Author-KAMRAN%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=120&lines=KAMRAN+MD+V8;WHATSAPP+MULTI+DEVICE+BOT;FAST+⚡+SMART+🤖+POWERFUL+💎" />
 </p>
-
-<div align="center">
-  
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O)
-</div>
-
- <p align="center"><img src="https://profile-counter.glitch.me/{KAMRAN-MD}/count.svg" alt="DR KAMRAN :: Visitor's Count" old_src="https://profile-counter.glitch.me/{KAMRAN-SMD}/count.svg" /></p>
-
 
 <p align="center">
-<a href="[https://github.com/KAMRAN-SMD/KAMRAN-MD](https://github.com/KAMRAN-SMD/KAMRAN-MD)"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=KAMRAN-MD&label=VIEWS&style=square&color=blue" />
+  <img src="https://i.imgur.com/LyHic3i.gif" width="260"/>
 </p>
-</p> 
+
+<h3 align="center">⚡ The Most Powerful WhatsApp Multi-Device Bot ⚡</h3>
+
+---
 
 <p align="center">
-  <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v8.0.0-cyan.svg?style=for-the-badge&logo=aqua" /></a>
+  <a href="https://github.com/KAMRAN-SMD">
+    <img src="https://img.shields.io/badge/DEVELOPER-KAMRAN%20MD-ff00ff?style=for-the-badge&logo=github"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=KAMRAN-MD&label=PROFILE+VIEWS&style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/badge/VERSION-8.0.0-purple?style=for-the-badge"/>
 </p>
 
+---
 
-***BOT FEATURE ⤵️***
+## 🌐 Join Official WhatsApp Channel
 
-| Menu ⁠➜ | Status Save + Send | Group | ChatBot | Downloading | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | HeartReacts | Autoreacts | Call Rejecter 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Work ➜ |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
-
-  
-<a
-href="https://github.com/KAMRAN-SMD/KAMRAN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O">
+    <img src="https://img.shields.io/badge/JOIN-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
-<p align='center'>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
- <p align="lift">
- <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/fork"><img title="KAMRAN-MD" src="KAMRAN MD-h?color=008000&style=for-the-badge&logo=github"></a>
- 
+---
 
-  **⛓️‍💥 NEW SESSION WEB ADDED**
-  
-  <a href='https://kamran-md-cjl2.onrender.com/' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
+## ⭐ Support The Project
 
+<p align="center">
+  <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/fork">
+    <img src="https://img.shields.io/badge/FORK%20REPO-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/stargazers">
+    <img src="https://img.shields.io/badge/STAR%20REPO-yellow?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-## _📡 DEPLOYMENT_
+---
 
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/KAMRAN-SMD/KAMRAN-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
-      <td><a href="https://host.talkdrove.com/share-bot/47" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-A52A2A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=KAMRAN-SMD/KAMRAN-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
-      <td><a href="https://shaban-md-vps.zone.id/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-  </table>
-</div>
+## ✨ Bot Features
 
--------------
+| Feature | Working |
+|---------|---------|
+| Status Save & Send | ✅ |
+| Group Management | ✅ |
+| ChatBot | ✅ |
+| Downloader Commands | ✅ |
+| Anti Delete | ✅ |
+| AI Commands | ✅ |
+| View Once Bypass | ✅ |
+| Fun Commands | ✅ |
+| Status Reply & React | ✅ |
+| Auto React System | ✅ |
+| Heart Reacts | ✅ |
+| Call Rejecter | ✅ |
 
-**NOTE:-** ***✠ YOU CAN ALSO COPY THIS CODE IF CHANNEL CODE EXPIRED FOR FREE DEPLOYMENT OF KAMRAN-MD ✠***
+---
 
-```
+## 🔗 Get Pair Code (New Session Web)
+
+<p align="center">
+  <a href="https://kamran-md-cjl2.onrender.com/">
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-red?style=for-the-badge&logo=matrix&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🚀 One Click Deploy
+
+| Platform | Deploy Link |
+|----------|-------------|
+| Heroku | https://dashboard.heroku.com/new-app?template=https://github.com/KAMRAN-SMD/KAMRAN-MD |
+| Render | https://dashboard.render.com/web/new |
+| Railway | https://railway.app/new |
+| Koyeb | https://app.koyeb.com/services/deploy?type=git&repository=KAMRAN-SMD/KAMRAN-MD |
+
+---
+
+## 🛠️ Manual Deploy (GitHub Actions Free Hosting)
+
+Create this file:
+
+`.github/workflows/nodejs.yml`
+
+```yml
 name: Node.js CI
 
 on:
   push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: npm install
+    - run: npm start
 
     strategy:
       matrix:
