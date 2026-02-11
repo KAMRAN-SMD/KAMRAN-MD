@@ -66,6 +66,24 @@
 
 ---
 
+## 🤖 KAMRAN MINI MD BOTS
+
+<p align="center">
+
+  <a href="https://dr-md-mini-718e84651b6f.herokuapp.com/">
+    <img src="https://img.shields.io/badge/OPEN%20MINI%20BOT%201-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  </a>
+
+  <a href="https://dr-mini-md-new-4bab55f00cdc.herokuapp.com/">
+    <img src="https://img.shields.io/badge/OPEN%20MINI%20BOT%202-7952B3?style=for-the-badge&logo=heroku&logoColor=white"/>
+  </a>
+
+  <a href="https://dr-mini-md-beta.vercel.app/">
+    <img src="https://img.shields.io/badge/OPEN%20MINI%20BOT%20BETA-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+</p>
+
 ## 🔗 Get Pair Code (New Session Web)
 
 <p align="center">
