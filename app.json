@@ -65,7 +65,7 @@
 
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
-      "required": true,
+      "required": false,
       "value": "true"
     }, 
 
