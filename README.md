@@ -75,7 +75,7 @@
   </a>
 
 
-## 🤖 KAMRAN MD VPS BOTS
+## 🤖 KAMRAN MD MINI BOTS
 
 <p align="center">
 
@@ -92,7 +92,7 @@
 ## 🔗 Get Pair Code (New Session Web)
 
 <p align="center">
-  <a href="https://kamran-md-cjl2.onrender.com/">
+  <a href="https://kamran-md-52vu.onrender.com/">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white"/>
   </a>
 </p>
