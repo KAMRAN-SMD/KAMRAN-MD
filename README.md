@@ -71,7 +71,7 @@
 <p align="center">
 
   <a href="https://drkamran.onrender.com/">
-    <img src="https://img.shields.io/badge/OPEN%20MINI%20BOT%201-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OPEN%20VPS%20BOT%201-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   </a>
 
 
