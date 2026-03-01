@@ -70,7 +70,7 @@
 
 <p align="center">
 
-  <a href="https://drkamran.onrender.com/">
+  <a href="https://drkamran-vps-24fadee9fd2b.herokuapp.com/">
     <img src="https://img.shields.io/badge/OPEN%20VPS%20BOT%201-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   </a>
 
@@ -92,7 +92,7 @@
 ## 🔗 Get Pair Code (New Session Web)
 
 <p align="center">
-  <a href="https://kamran-md-52vu.onrender.com/">
+  <a href="https://drkamran-md-o9fz.onrender.com/">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white"/>
   </a>
 </p>
