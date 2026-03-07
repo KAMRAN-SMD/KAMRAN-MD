@@ -92,7 +92,7 @@
 ## 🔗 Get Pair Code (New Session Web)
 
 <p align="center">
-  <a href="https://drkamran-md-o9fz.onrender.com/">
+  <a href="https://drkamran.koyeb.app/">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white"/>
   </a>
 </p>
