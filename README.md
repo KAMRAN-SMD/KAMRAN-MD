@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="15px">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=400&color=F700FF&vCenter=true&center=true&width=1000&height=160&lines=KAMRAN-MD-V8+ULTRON;POWERED+BY+KAMRAN+SMD;COLOR+CHANGING+MODE+ON;THE+MOST+STABLE+WA+BOT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=400&color=F700FF&vCenter=true&center=true&width=1000&height=160&lines=+KAMRAN-MD-V8+ULTRON;POWERED+BY+KAMRAN-MD-V8+SMD;COLOR+CHANGING+MODE+ON;THE+MOST+STABLE+WA+BOT" alt="Typing SVG" />
 </a>
 
 <div style="padding: 10px; background: linear-gradient(45deg, #ff0000, #00ff00, #0000ff, #ff00ff); border-radius: 30px; display: inline-block;">
