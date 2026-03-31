@@ -16,6 +16,25 @@
 
 <br>
 
+<h1 align="center" style="color: #FFD700; text-shadow: 0 0 20px #FFD700;">⭐ SUPPORT & FORK PROJECT ⭐</h1>
+<p align="center">
+  <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/fork">
+    <img src="https://img.shields.io/badge/FORK%20THIS%20REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=333333&width=500" width="550" height="85"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/stargazers">
+    <img src="https://img.shields.io/badge/STAR%20THIS%20REPO-yellow?style=for-the-badge&logo=github&logoColor=black&width=300" width="250" height="50"/>
+  </a>
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10px">
+
+<br>
+
 <h1 align="center" style="color: #00FFFF; text-shadow: 0 0 15px #00FFFF;">🚀 ULTRA DEPLOYMENT HUB 🚀</h1>
 
 <br>
