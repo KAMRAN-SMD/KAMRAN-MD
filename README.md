@@ -14,27 +14,60 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10px">
 
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="220" style="border-radius: 50%; box-shadow: 0 0 30px #00FFFF; border: 5px solid #00FFFF; padding: 5px;"/>
-</p>
+<br>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&height=70&lines=⚡+SYSTEM+OVERRIDE+ACTIVE+⚡" />
-</h2>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="8px">
+<h1 align="center" style="color: #00FFFF; text-shadow: 0 0 15px #00FFFF;">🚀 ULTRA DEPLOYMENT HUB 🚀</h1>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OWNER-KAMRAN%20MD-FF0000?style=for-the-badge&logo=github&logoColor=white&shadow=0px 0px 10px #FF0000"/>
-  <img src="https://img.shields.io/badge/VERSION-8.0.0-00FF00?style=for-the-badge&logo=matrix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-0000FF?style=for-the-badge&logo=statuspage&logoColor=white"/>
+  <a href="https://dashboard.heroku.com/new-app?template=https://github.com/KAMRAN-SMD/KAMRAN-MD">
+    <img src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&width=400" width="450" height="70"/>
+  </a>
 </p>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="8px">
+<p align="center">
+  <a href="https://railway.app/new">
+    <img src="https://img.shields.io/badge/DEPLOY%20ON%20RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=white&labelColor=333333&width=400" width="450" height="70"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://app.koyeb.com/services/deploy?type=git&repository=KAMRAN-SMD/KAMRAN-MD">
+    <img src="https://img.shields.io/badge/DEPLOY%20ON%20KOYEB-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000&width=400" width="450" height="70"/>
+  </a>
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10px">
+
+<br>
+
+<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 15px #FF00FF;">🔑 AUTHENTICATION CENTER 🔑</h2>
+<p align="center">
+  <a href="https://drkamran.koyeb.app/">
+    <img src="https://img.shields.io/badge/GET%20SESSION%20PAIR%20CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000&width=500" width="550" height="85"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O">
+    <img src="https://img.shields.io/badge/JOIN%20OFFICIAL%20WA%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54&width=500" width="550" height="70"/>
+  </a>
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10px">
+
+<br>
 
 <h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px #FF00FF, 0 0 40px #00FFFF;">💎 PREMIUM FEATURES 💎</h2>
 
@@ -49,35 +82,6 @@
 </div>
 
 <br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10px">
-
-<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 15px #00FFFF;">🚀 DEPLOYMENT HUB 🚀</h2>
-
-<p align="center">
-  <a href="https://dashboard.heroku.com/new-app?template=https://github.com/KAMRAN-SMD/KAMRAN-MD">
-    <img src="https://img.shields.io/badge/HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  </a>
-  <a href="https://railway.app/new">
-    <img src="https://img.shields.io/badge/RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=white"/>
-  </a>
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=KAMRAN-SMD/KAMRAN-MD">
-    <img src="https://img.shields.io/badge/KOYEB-FF009D?style=for-the-badge&logo=koyeb&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://drkamran.koyeb.app/">
-    <img src="https://img.shields.io/badge/🔑_GET_PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O">
-    <img src="https://img.shields.io/badge/💬_WA_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="8px">
 
 <h2 align="center" style="color: #8A2BE2; text-shadow: 0 0 10px #8A2BE2;">📊 SYSTEM ANALYTICS</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=KAMRAN-SMD&show_icons=true&theme=tokyonight&border_color=FF00FF&title_color=00FFFF&icon_color=FF00FF&bg_color=000000" width="480"/>
