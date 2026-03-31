@@ -3,7 +3,7 @@
 <a><img src='https://upld.zone.id/uploads/d4ina6iq/img-20260114-wa0013-1.webp'/></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=65&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=120&lines=KAMRAN+MD+V8;WHATSAPP+MULTI+DEVICE+BOT;FAST+⚡+SMART+🤖+POWERFUL+💎" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=65&pause=1000&color=A2BE2&center=true&vCenter=true&width=900&height=120&lines=KAMRAN+MD+V8;WHATSAPP+MULTI+DEVICE+BOT;FAST+⚡+SMART+🤖+POWERFUL+💎" />
 </p>
 
 <p align="center">
