@@ -110,3 +110,36 @@
 </div>
 
 </div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10px">
+
+<br>
+
+<h2 align="center" style="color: #FF7F00; text-shadow: 0 0 15px #FF7F00;">🖥️ MINI BOT SERVER NETWORK (V1-V15) 🖥️</h2>
+
+<div align="center">
+
+| SERVER ID | DIRECT DEPLOYMENT LINK | STATUS |
+| :---: | :---: | :---: |
+| **SERVER 01** | [🚀 DEPLOY NOW](https://mini-new-1-9e38bb0f2cce.herokuapp.com/) | `ONLINE` |
+| **SERVER 02** | [🚀 DEPLOY NOW](https://mini-new-2-558f83d85ffb.herokuapp.com/) | `ONLINE` |
+| **SERVER 03** | [🚀 DEPLOY NOW](https://mini-new-3-66f89be467b7.herokuapp.com/) | `ONLINE` |
+| **SERVER 04** | [🚀 DEPLOY NOW](https://mini-new-4-d5b0068b757b.herokuapp.com/) | `ONLINE` |
+| **SERVER 05** | [🚀 DEPLOY NOW](https://mini-new-5-41cd4c20d6a3.herokuapp.com/) | `ONLINE` |
+| **SERVER 06** | [🚀 DEPLOY NOW](https://mini-new-6-f4fe17ae7883.herokuapp.com/) | `ONLINE` |
+| **SERVER 07** | [🚀 DEPLOY NOW](https://mini-new-7-b261d5d359f8.herokuapp.com/) | `ONLINE` |
+| **SERVER 08** | [🚀 DEPLOY NOW](https://mini-new-8-f14b68b303c3.herokuapp.com/) | `ONLINE` |
+| **SERVER 09** | [🚀 DEPLOY NOW](https://mini-new-9-6a20b06fdefb.herokuapp.com/) | `ONLINE` |
+| **SERVER 10** | [🚀 DEPLOY NOW](https://mini-new-10-19b9d17de42e.herokuapp.com/) | `ONLINE` |
+| **SERVER 11** | [🚀 DEPLOY NOW](https://mini-new-11-6c84cb7a89ad.herokuapp.com/) | `ONLINE` |
+| **SERVER 12** | [🚀 DEPLOY NOW](https://mini-new-12-e8f9d688a289.herokuapp.com/) | `ONLINE` |
+| **SERVER 13** | [🚀 DEPLOY NOW](https://mini-new-13-a1b18663a32e.herokuapp.com/) | `ONLINE` |
+| **SERVER 14** | [🚀 DEPLOY NOW](https://mini-new-14-ff9f7d923371.herokuapp.com/) | `ONLINE` |
+| **SERVER 15** | [🚀 DEPLOY NOW](https://mini-new-15-1e0037b2c1cd.herokuapp.com/) | `ONLINE` |
+
+</div>
+
+<br>
+
