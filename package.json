@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By DR KAMRAN",
   "main": "index.js",
   "engines": {
-    "node": ">=22.x",
+    "node": ">=24.x",
     "npm": ">=10.x"
   },
   "scripts": {
